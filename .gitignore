@@ -1,1 +1,4 @@
 /dsenv
+/dist
+.env
+src/ds_service.egg-info/
